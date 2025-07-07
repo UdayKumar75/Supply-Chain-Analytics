@@ -12,6 +12,19 @@ The dashboard helps stakeholders monitor and improve key supply chain KPIs, incl
 - **Delivery Delays**
 - **Order Distribution by City, Category & Customer**
 
+## 📊 Dashboard Preview
+
+Here’s a quick look at the Power BI dashboard used in this project:
+
+**Page 1**
+![Dashboard Page 1](Dashboard/Page-1.png)
+
+**Page 2**
+![Dashboard Page 2](Dashboard/Page-2.png)
+
+**Page 3**
+![Dashboard Page 3](Dashboard/Page-3.png)
+
 ## 🧩 Data Model
 
 The project follows a **star schema** with the following tables:
