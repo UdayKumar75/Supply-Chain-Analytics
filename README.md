@@ -17,13 +17,13 @@ The dashboard helps stakeholders monitor and improve key supply chain KPIs, incl
 Here’s a quick look at the Power BI dashboard used in this project:
 
 **Page 1**
-![Dashboard Page 1](Dashboard/Page-1.png)
+![Dashboard Page 1](Dashboard/Overview.png)
 
 **Page 2**
-![Dashboard Page 2](Dashboard/Page-2.png)
+![Dashboard Page 2](Dashboard/Key Matrices.png)
 
 **Page 3**
-![Dashboard Page 3](Dashboard/Page-3.png)
+![Dashboard Page 3](Dashboard/Other Details.png)
 
 ## 🧩 Data Model
 
