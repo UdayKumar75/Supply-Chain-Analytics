@@ -20,10 +20,10 @@ Here’s a quick look at the Power BI dashboard used in this project:
 ![Dashboard Page 1](Dashboard/Overview.png)
 
 **Page 2**
-![Dashboard Page 2](Dashboard/Key Matrices.png)
+![Dashboard Page 2](Dashboard/Key_Matrices.png)
 
 **Page 3**
-![Dashboard Page 3](Dashboard/Other Details.png)
+![Dashboard Page 3](Dashboard/Other_Details.png)
 
 ## 🧩 Data Model
 
